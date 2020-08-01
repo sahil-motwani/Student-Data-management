@@ -10,13 +10,13 @@ get their contact details. They just have to enter student’s unique id
 them in form of interactive charts.
 # Screenshots of Website
 Landing Page
-![ss1](ss1.png)
+![ss1](ss1.PNG)
 Faculty Login
 ![ss2](ss2.png)
 Student login
-![ss3](ss3.png)
+![ss3](ss3.PNG)
 SignUp Page
-![ss4](ss4.png)
+![ss4](ss4.PNG)
 Company Display Page
 ![ss5](ss5.png)
 Faculty Dashboard
