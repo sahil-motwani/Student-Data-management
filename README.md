@@ -9,15 +9,15 @@ get their contact details. They just have to enter student’s unique id
 (e.g. Library Card Number) all details of that student will be in front of
 them in form of interactive charts.
 # Screenshots of Website
-Landing Page
+# Landing Page
 ![ss1](ss1.PNG)
-Faculty Login
+# Faculty Login
 ![ss2](ss2.png)
-Student login
+# Student login
 ![ss3](ss3.PNG)
-SignUp Page
+# SignUp Page
 ![ss4](ss4.PNG)
-Company Display Page
+# Company Display Page
 ![ss5](ss5.png)
-Faculty Dashboard
+# Faculty Dashboard
 ![ss6](ss6.png)
